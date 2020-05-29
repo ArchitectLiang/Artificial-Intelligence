@@ -1,2 +1,2 @@
-# cs188
+# cs 188
 course projects
