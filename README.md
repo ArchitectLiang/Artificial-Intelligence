@@ -1,4 +1,4 @@
-# AI
+# Pacman AI
 Pacman AI
 </br> tutorial: https://inst.eecs.berkeley.edu/~cs188/sp20/project0/
 </br> search: https://inst.eecs.berkeley.edu/~cs188/sp20/project1/
