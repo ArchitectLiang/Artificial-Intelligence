@@ -1,5 +1,5 @@
 # Pacman AI
-Pacman AI
+Pacman AI and ML
 </br> tutorial: https://inst.eecs.berkeley.edu/~cs188/sp20/project0/
 </br> search: https://inst.eecs.berkeley.edu/~cs188/sp20/project1/
 </br> multiagent: https://inst.eecs.berkeley.edu/~cs188/sp20/project2/
